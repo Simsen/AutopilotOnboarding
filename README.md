@@ -16,7 +16,7 @@ LINE: 167, 168, 169, 170
 
 
 To EDIT numbers of Group tag characters
-EDIT: Start_EndpointMigration.ps1
+EDIT: EndpointMigration.ps1
 
 LINE: 170
 
